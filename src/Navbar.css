@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+}
+ .Navbar{
+    display: flex;
+    padding: 20px;
+    align-items: center;    
+    background-color: lightcyan;
+    margin-bottom: 15px;
+ }
+
+ .Navbar a {
+     color: hotpink;
+ }
+
+ .home {
+     padding: 15px;
+ }
+ .projects {
+    padding: 15px;
+}
+.blog {
+    padding: 15px;
+}
+.Navbar a:hover {
+    color: gray;
+}
